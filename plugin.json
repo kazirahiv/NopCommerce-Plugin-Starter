@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Widgets",
+  "FriendlyName": "My CustomPlugin Plugin",
+  "SystemName": "Widgets.MyCustomPlugin",
+  "Version": "1.38",
+  "SupportedVersions": [ "4.30" ],
+  "Author": "Kazi Rahiv",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.MyCustomPlugin.dll",
+  "Description": "This is a test plugin"
+}
